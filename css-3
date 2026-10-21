@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 100;
+  src: url(s/palanquin/v17/9XUhlJ90n1fBFg7ceXwUEmtP5LE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 200;
+  src: url(s/palanquin/v17/9XUilJ90n1fBFg7ceXwUvnpYw5Gu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/palanquin/v17/9XUilJ90n1fBFg7ceXwU2nlYw5Gu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/palanquin/v17/9XUnlJ90n1fBFg7ceXwccVtI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/palanquin/v17/9XUilJ90n1fBFg7ceXwUgnhYw5Gu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/palanquin/v17/9XUilJ90n1fBFg7ceXwUrn9Yw5Gu.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/palanquin/v17/9XUilJ90n1fBFg7ceXwUyn5Yw5Gu.ttf) format('truetype');
+}
